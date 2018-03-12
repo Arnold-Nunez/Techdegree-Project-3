@@ -1,4 +1,8 @@
 /* main--------------- */
+* {
+  max-width: 800px;
+  margin: 0 auto;
+}
 
 body {
   background: #fff;
@@ -35,7 +39,6 @@ header {
 }
 
 .sub-head p {
-  border-bottom: 4px solid #2e384a;
   padding-bottom: 35px;
   color: silver;
   font-size: 1.2em;
